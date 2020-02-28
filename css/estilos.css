@@ -1,0 +1,112 @@
+/* Selector de etiqueta
+
+h2{
+    color: chocolate;
+}
+
+#footer{
+    background-color: yellow;
+}
+#h2-encabezado{
+    color: red;
+    text-align: center;
+}
+
+
+#portada h2{
+    color: orange;
+}
+
+section article h2{
+    color: salmon;
+}
+*/
+#encabezado{
+    background: #cccccc ;
+    width: 900px;
+    height: 100px;
+    margin: auto;
+    text-align: center;
+}
+#h2-encabezado{
+    line-height: 100px;;
+}
+
+
+#portada{
+    background: #d0bf00;
+    width: 900px;
+    height: 265px;
+    margin: auto;
+}
+
+#h2-portada{
+    margin: 0px;
+    text-align: center;
+    line-height: 265px;
+}
+
+#productos{
+    width: 900px;
+    height: 226px;
+    margin: auto;
+    
+}
+
+#producto1{
+    display: inline-block;
+    width: 448px;
+    height: 226px;
+    margin: auto;
+    background:black;
+   
+}
+#producto2{
+    display: inline-block;
+    width: 448px;
+    height: 226px;
+    margin: auto;
+    background:#0e78c0;
+   
+}
+#h2-producto1{
+    
+    color: white;
+    margin: 0px;
+    text-align: center;
+    line-height: 226px;
+}
+#h2-producto2{
+    text-align: center;
+    margin: 0px;
+    
+    line-height: 226px;
+
+}
+
+
+#ofertas{
+    width: 900px;
+    height: 265px;
+    margin: auto;
+    background: #d0bf00;
+
+}
+#h2-ofertas{
+    margin: 0px;
+    text-align: center;
+    line-height: 265px;
+}
+
+#footer{
+    width: 900px;
+    height: 50px;
+    margin:auto;
+    background: #9a999a;
+}
+.p{
+    text-align: center;
+    margin: 0px;
+    line-height: 50px;
+    font-size: 20px;
+}
